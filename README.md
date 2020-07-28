@@ -6,5 +6,4 @@ Just tracked the new issues.
 today its a great and hectic day for me.
 Same issue I am still facing internet issue.
 Today is friday and I ate too thick noodles.Now i am gonna make burgers.
-In order to calculate the bmi we use a formula sheet.
-Today i am gonna start prepare myy exam.
+
