@@ -7,3 +7,4 @@ today its a great and hectic day for me.
 I have completed AWS Course.
 Today I just started working on my lms. 
 I have officially started working with MSP Isb.
+Today i have read binomial and geometric distribution.
