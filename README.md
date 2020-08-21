@@ -9,4 +9,4 @@ Greedy Algorithms finds a best optimal solution for a given problem.
 Today I realized how important mental health is. you should not lose your temperament while in hurry.
 Greedy algorithms made me too much greedy.
 Probability and statistics are not as difficult as we think.
-
+Cuury with full of spicies always cause bitter problems.
