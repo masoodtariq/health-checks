@@ -1,5 +1,6 @@
 # health-checks
 We want to check the health of our computer.
+Spicies always create some severe shit for you bally. dont take severe actions.
 This is my new repository.
 Just tracked the new issues.
 Today i have read binomial and geometric distribution.
