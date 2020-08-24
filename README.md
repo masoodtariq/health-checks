@@ -11,3 +11,4 @@ Greedy algorithms made me too much greedy.
 Probability and statistics are not as difficult as we think.
 Cuury with full of spicies always cause bitter problems.
 Alhamdulilah done with final exams. Now just left web project. lets see what happens.
+waiting for HCIA AI exam curiously.lets see what happens.
