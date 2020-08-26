@@ -13,3 +13,4 @@ Cuury with full of spicies always cause bitter problems.
 Alhamdulilah done with final exams. Now just left web project. lets see what happens.
 waiting for HCIA AI exam curiously.lets see what happens.
 you can create your own cookies using setcookiefunction().
+we can also use password encyption using md5 method.
