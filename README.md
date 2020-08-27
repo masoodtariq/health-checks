@@ -14,3 +14,4 @@ Alhamdulilah done with final exams. Now just left web project. lets see what hap
 waiting for HCIA AI exam curiously.lets see what happens.
 you can create your own cookies using setcookiefunction().
 we can also use password encyption using md5 method.
+Empathize,define,prototype, test are the main ideas in designing.
