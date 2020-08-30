@@ -16,3 +16,4 @@ you can create your own cookies using setcookiefunction().
 we can also use password encyption using md5 method.
 Empathize,define,prototype, test are the main ideas in designing.
 fchcg guyg uguvv
+qatal e hussain asal meinmarge yazeeed hai islam zinda hota hai har qarbala k badd.
