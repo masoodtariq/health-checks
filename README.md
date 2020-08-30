@@ -15,5 +15,5 @@ waiting for HCIA AI exam curiously.lets see what happens.
 you can create your own cookies using setcookiefunction().
 we can also use password encyption using md5 method.
 Empathize,define,prototype, test are the main ideas in designing.
-fchcg guyg uguvv
 qatal e hussain asal meinmarge yazeeed hai islam zinda hota hai har qarbala k badd.
+In TCP/IP network model, ther are five layers i.e physical layer,data layer,network layer,transport layer,application layer.
