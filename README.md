@@ -17,3 +17,4 @@ we can also use password encyption using md5 method.
 Empathize,define,prototype, test are the main ideas in designing.
 qatal e hussain asal meinmarge yazeeed hai islam zinda hota hai har qarbala k badd.
 In TCP/IP network model, ther are five layers i.e physical layer,data layer,network layer,transport layer,application layer.
+when we use regularization we use almost all the attributes but we make the values of parameters very low. we should not use too much large value of lambda function.
