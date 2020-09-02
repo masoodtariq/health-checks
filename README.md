@@ -19,3 +19,4 @@ qatal e hussain asal meinmarge yazeeed hai islam zinda hota hai har qarbala k ba
 In TCP/IP network model, ther are five layers i.e physical layer,data layer,network layer,transport layer,application layer.
 when we use regularization we use almost all the attributes but we make the values of parameters very low. we should not use too much large value of lambda function.
 So finally tomorrow is my HCIA AI Exam. 
+IP is 32 address at network layer. data packest at this layer are called IP datagram.
