@@ -20,3 +20,4 @@ In TCP/IP network model, ther are five layers i.e physical layer,data layer,netw
 when we use regularization we use almost all the attributes but we make the values of parameters very low. we should not use too much large value of lambda function.
 So finally tomorrow is my HCIA AI Exam. 
 IP is 32 address at network layer. data packest at this layer are called IP datagram.
+FF.FF.FF.FF is used for worldwide broadcasting.
