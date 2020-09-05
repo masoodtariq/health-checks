@@ -21,3 +21,4 @@ when we use regularization we use almost all the attributes but we make the valu
 So finally tomorrow is my HCIA AI Exam. 
 IP is 32 address at network layer. data packest at this layer are called IP datagram.
 FF.FF.FF.FF is used for worldwide broadcasting.
+Overeating cause very serious issue some times.
