@@ -22,3 +22,6 @@ So finally tomorrow is my HCIA AI Exam.
 IP is 32 address at network layer. data packest at this layer are called IP datagram.
 FF.FF.FF.FF is used for worldwide broadcasting.
 Overeating cause very serious issue some times.
+255.255.255.255 is a common subnetting mask which basically tells us that all are the 1's. if i write 192.168.10.1/24 it means 24 1's.
+class A has 1st octect for network id, b has two octects for network id, C class has 3 octects for network id. in order to know how many hosts an ip can accomodate, just 2 to the power of
+ host id in that id. TTL decrements byb1 one on eah hop.
