@@ -28,3 +28,4 @@ class A has 1st octect for network id, b has two octects for network id, C class
 Google IT support specialization consists of 5 courses.
 ishq hai moula mere moula mere moula mere.
 sanam py haan ishq py haan luta du mita du mein ye hasti ya ali rahm wa li....
+bina tere naa iq pal ho na bin tere kahi pal ho ye dil ban jaye pathar ka naa iss mein koi halcha l ho.
