@@ -27,3 +27,4 @@ class A has 1st octect for network id, b has two octects for network id, C class
  host id in that id. TTL decrements byb1 one on eah hop.
 Google IT support specialization consists of 5 courses.
 ishq hai moula mere moula mere moula mere.
+sanam py haan ishq py haan luta du mita du mein ye hasti ya ali rahm wa li....
