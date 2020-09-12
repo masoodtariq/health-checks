@@ -26,3 +26,4 @@ Overeating cause very serious issue some times.
 class A has 1st octect for network id, b has two octects for network id, C class has 3 octects for network id. in order to know how many hosts an ip can accomodate, just 2 to the power of
  host id in that id. TTL decrements byb1 one on eah hop.
 Google IT support specialization consists of 5 courses.
+ishq hai moula mere moula mere moula mere.
