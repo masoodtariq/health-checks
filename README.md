@@ -29,3 +29,5 @@ Google IT support specialization consists of 5 courses.
 ishq hai moula mere moula mere moula mere.
 sanam py haan ishq py haan luta du mita du mein ye hasti ya ali rahm wa li....
 bina tere naa iq pal ho na bin tere kahi pal ho ye dil ban jaye pathar ka naa iss mein koi halcha l ho.
+you can connect to another pc using ssh or secure shell. Secure shell is a protocol used by others programs to securely connect to one computer from other computer. For this purpose, the
+system must have ssh client and the other one ssh server. you can connect also connet other networks and systems using vpn to access different files and folders. 
