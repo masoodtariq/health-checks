@@ -26,8 +26,14 @@ Overeating cause very serious issue some times.
 class A has 1st octect for network id, b has two octects for network id, C class has 3 octects for network id. in order to know how many hosts an ip can accomodate, just 2 to the power of
  host id in that id. TTL decrements byb1 one on eah hop.
 Google IT support specialization consists of 5 courses.
-ishq hai moula mere moula mere moula mere.
-sanam py haan ishq py haan luta du mita du mein ye hasti ya ali rahm wa li....
-bina tere naa iq pal ho na bin tere kahi pal ho ye dil ban jaye pathar ka naa iss mein koi halcha l ho.
+
 you can connect to another pc using ssh or secure shell. Secure shell is a protocol used by others programs to securely connect to one computer from other computer. For this purpose, the
 system must have ssh client and the other one ssh server. you can connect also connet other networks and systems using vpn to access different files and folders. 
+ipconfig /all is used to check the MAC address and other network informations.
+Internet is the coneection of physical wires and interconnected computers. The information on the kinternet is world wide web. The DNS converts the human readable url to the ip of the
+server and connects it to client.
+Coding means translating one language into another. Scripting mrans writing codes in sripting languages. Scriptes perform single or limited number of tasks.
+programming means writing codes in programming languages. There are usually two types of softwares i.e application softwares and system softwares. 
+The type of softwares that allows us the freedom to use,modify and share the software is called open source software.
+softwares that keep the core systems running are known as system softwares like operating systems and utilities. Firmare is a system software that is permanently stored on computer
+components. like BIOS.
