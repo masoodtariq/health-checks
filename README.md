@@ -7,11 +7,7 @@ Today i have read binomial and geometric distribution.
 How to detect the defective parts in manufacturing via probability.
 Greedy Algorithms finds a best optimal solution for a given problem.
 Today I realized how important mental health is. you should not lose your temperament while in hurry.
-Greedy algorithms made me too much greedy.
-Probability and statistics are not as difficult as we think.
-Cuury with full of spicies always cause bitter problems.
 Alhamdulilah done with final exams. Now just left web project. lets see what happens.
-waiting for HCIA AI exam curiously.lets see what happens.
 you can create your own cookies using setcookiefunction().
 we can also use password encyption using md5 method.
 Empathize,define,prototype, test are the main ideas in designing.
@@ -37,3 +33,8 @@ programming means writing codes in programming languages. There are usually two 
 The type of softwares that allows us the freedom to use,modify and share the software is called open source software.
 softwares that keep the core systems running are known as system softwares like operating systems and utilities. Firmare is a system software that is permanently stored on computer
 components. like BIOS.
+to uninstall or check programs use add or remove in the bottom search of the desktop panel. you can even modify that program or feature.
+sudo stand for super user do. it is basically used for authentication so that the administrator is usinng the console. linux distributions are already fimiliar with many programs and
+applications like chrome and firfox. you don't have to manually download that specific application. instead you just need to use sudo apt-get update. it will update the apllications. then
+simply use sudo apt-get install firfox to install the firfox application and sudo apt-get remove gimp to uninstall gimp. you can use dpkg -s firfox to get the installation and version info of a firfox application.
+mkdir my-diecrtory is used to make a new directory or folder in linux. 
