@@ -38,3 +38,10 @@ sudo stand for super user do. it is basically used for authentication so that th
 applications like chrome and firfox. you don't have to manually download that specific application. instead you just need to use sudo apt-get update. it will update the apllications. then
 simply use sudo apt-get install firfox to install the firfox application and sudo apt-get remove gimp to uninstall gimp. you can use dpkg -s firfox to get the installation and version info of a firfox application.
 mkdir my-diecrtory is used to make a new directory or folder in linux. 
+customer satisfaction is very important in the field of IT.You have to build a strong trust with client. be empathetic,try to think yourself in the place of customer.
+if someone comes to you regarding an IT issue, ask questions but in a way that the user doesn't get frustrated. keep acknoledging the customer. try the find the root cause then forwrd to
+the actual problems. try to shrink the scope of your problem by asking relevant questions. Be patient if the users uses fowl words.
+Documentation is important in the field of IT. Tickets and bugs are two types of documentation. ticketing means try to write the solution of a common problem. bugs mean to solve the 
+issue of a system that wasnt created by external sources.
+keep updating your resume with respect to the job description. Dont make a general resume. prepare your elevator pitch before the interview like your intro and why do you want to be a part
+of this job. knowing the answer is not great but knowing how to solve an actual problem is something excellent. sleep well a night before the interview. have breakfast on the interview day.
